@@ -1,0 +1,1 @@
+This a demo text file. This is actually a educational project for learning how to use git commands. This is one way to teach Git to students practically. Then this file is nothing but a README for anyone who looks into this project. 
